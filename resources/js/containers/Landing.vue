@@ -2,7 +2,7 @@
     <nav class="main-header navbar navbar-expand-md navbar-light navbar-white">
         <div class="container">
             <a href="/landing" class="navbar-brand">
-                <img src="http://res.cloudinary.com/kemenagpessel/image/upload/v1678080743/arsip_masuk/o2w50c0hdc98alyizelk.jpg"
+                <img src="https://res.cloudinary.com/dezj1x6xp/image/upload/v1700714219/PandanViewMandeh/logo_sma3painanopacity_j4yyfh.png"
                     alt="AdminLTE Logo" class="brand-image" style="opacity: .8">
                 <span class="brand-text font-weight-light">Buku Tamu Digital</span>
             </a>
@@ -115,7 +115,7 @@
     <footer class="main-footer">
 
         <div class="float-right d-none d-sm-inline">
-            SIMBUKTU KMGPESSSEL
+            E-GuestBook
         </div>
 
         <strong>Copyright &copy; 2023 <a href="https://adminlte.io">Developed By Yuda Pramana</a>.</strong> All rights reserved.

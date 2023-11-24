@@ -75,7 +75,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */   render: () => (/* binding */ render)
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
@@ -493,35 +493,35 @@ function makeNodesHash(arr){
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "ErrorMessage": () => (/* binding */ ErrorMessage),
-/* harmony export */   "Field": () => (/* binding */ Field),
-/* harmony export */   "FieldArray": () => (/* binding */ FieldArray),
-/* harmony export */   "FieldContextKey": () => (/* binding */ FieldContextKey),
-/* harmony export */   "Form": () => (/* binding */ Form),
-/* harmony export */   "FormContextKey": () => (/* binding */ FormContextKey),
-/* harmony export */   "IS_ABSENT": () => (/* binding */ IS_ABSENT),
-/* harmony export */   "configure": () => (/* binding */ configure),
-/* harmony export */   "defineRule": () => (/* binding */ defineRule),
-/* harmony export */   "useField": () => (/* binding */ useField),
-/* harmony export */   "useFieldArray": () => (/* binding */ useFieldArray),
-/* harmony export */   "useFieldError": () => (/* binding */ useFieldError),
-/* harmony export */   "useFieldValue": () => (/* binding */ useFieldValue),
-/* harmony export */   "useForm": () => (/* binding */ useForm),
-/* harmony export */   "useFormErrors": () => (/* binding */ useFormErrors),
-/* harmony export */   "useFormValues": () => (/* binding */ useFormValues),
-/* harmony export */   "useIsFieldDirty": () => (/* binding */ useIsFieldDirty),
-/* harmony export */   "useIsFieldTouched": () => (/* binding */ useIsFieldTouched),
-/* harmony export */   "useIsFieldValid": () => (/* binding */ useIsFieldValid),
-/* harmony export */   "useIsFormDirty": () => (/* binding */ useIsFormDirty),
-/* harmony export */   "useIsFormTouched": () => (/* binding */ useIsFormTouched),
-/* harmony export */   "useIsFormValid": () => (/* binding */ useIsFormValid),
-/* harmony export */   "useIsSubmitting": () => (/* binding */ useIsSubmitting),
-/* harmony export */   "useResetForm": () => (/* binding */ useResetForm),
-/* harmony export */   "useSubmitCount": () => (/* binding */ useSubmitCount),
-/* harmony export */   "useSubmitForm": () => (/* binding */ useSubmitForm),
-/* harmony export */   "useValidateField": () => (/* binding */ useValidateField),
-/* harmony export */   "useValidateForm": () => (/* binding */ useValidateForm),
-/* harmony export */   "validate": () => (/* binding */ validate)
+/* harmony export */   ErrorMessage: () => (/* binding */ ErrorMessage),
+/* harmony export */   Field: () => (/* binding */ Field),
+/* harmony export */   FieldArray: () => (/* binding */ FieldArray),
+/* harmony export */   FieldContextKey: () => (/* binding */ FieldContextKey),
+/* harmony export */   Form: () => (/* binding */ Form),
+/* harmony export */   FormContextKey: () => (/* binding */ FormContextKey),
+/* harmony export */   IS_ABSENT: () => (/* binding */ IS_ABSENT),
+/* harmony export */   configure: () => (/* binding */ configure),
+/* harmony export */   defineRule: () => (/* binding */ defineRule),
+/* harmony export */   useField: () => (/* binding */ useField),
+/* harmony export */   useFieldArray: () => (/* binding */ useFieldArray),
+/* harmony export */   useFieldError: () => (/* binding */ useFieldError),
+/* harmony export */   useFieldValue: () => (/* binding */ useFieldValue),
+/* harmony export */   useForm: () => (/* binding */ useForm),
+/* harmony export */   useFormErrors: () => (/* binding */ useFormErrors),
+/* harmony export */   useFormValues: () => (/* binding */ useFormValues),
+/* harmony export */   useIsFieldDirty: () => (/* binding */ useIsFieldDirty),
+/* harmony export */   useIsFieldTouched: () => (/* binding */ useIsFieldTouched),
+/* harmony export */   useIsFieldValid: () => (/* binding */ useIsFieldValid),
+/* harmony export */   useIsFormDirty: () => (/* binding */ useIsFormDirty),
+/* harmony export */   useIsFormTouched: () => (/* binding */ useIsFormTouched),
+/* harmony export */   useIsFormValid: () => (/* binding */ useIsFormValid),
+/* harmony export */   useIsSubmitting: () => (/* binding */ useIsSubmitting),
+/* harmony export */   useResetForm: () => (/* binding */ useResetForm),
+/* harmony export */   useSubmitCount: () => (/* binding */ useSubmitCount),
+/* harmony export */   useSubmitForm: () => (/* binding */ useSubmitForm),
+/* harmony export */   useValidateField: () => (/* binding */ useValidateField),
+/* harmony export */   useValidateForm: () => (/* binding */ useValidateForm),
+/* harmony export */   validate: () => (/* binding */ validate)
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 /* harmony import */ var _vue_devtools_api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @vue/devtools-api */ "./node_modules/@vue/devtools-api/lib/esm/index.js");
@@ -3800,13 +3800,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Register_vue_vue_type_template_id_97358ae4__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Register.vue?vue&type=template&id=97358ae4 */ "./resources/js/components/Register.vue?vue&type=template&id=97358ae4");
 /* harmony import */ var _Register_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Register.vue?vue&type=script&lang=js */ "./resources/js/components/Register.vue?vue&type=script&lang=js");
-/* harmony import */ var _Users_yudapramana_Sites_laravel_vue3_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_MAMP_htdocs_egb_tps_prydsy_xyz_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,_Users_yudapramana_Sites_laravel_vue3_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Register_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Register_vue_vue_type_template_id_97358ae4__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/components/Register.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_MAMP_htdocs_egb_tps_prydsy_xyz_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Register_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Register_vue_vue_type_template_id_97358ae4__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/components/Register.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -3840,7 +3840,7 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Register_vue_vue_type_template_id_97358ae4__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */   render: () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Register_vue_vue_type_template_id_97358ae4__WEBPACK_IMPORTED_MODULE_0__.render)
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Register_vue_vue_type_template_id_97358ae4__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Register.vue?vue&type=template&id=97358ae4 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/components/Register.vue?vue&type=template&id=97358ae4");
 
@@ -3856,33 +3856,33 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "ArraySchema": () => (/* binding */ ArraySchema),
-/* harmony export */   "BooleanSchema": () => (/* binding */ BooleanSchema),
-/* harmony export */   "DateSchema": () => (/* binding */ DateSchema),
-/* harmony export */   "MixedSchema": () => (/* binding */ MixedSchema),
-/* harmony export */   "NumberSchema": () => (/* binding */ NumberSchema),
-/* harmony export */   "ObjectSchema": () => (/* binding */ ObjectSchema),
-/* harmony export */   "Schema": () => (/* binding */ Schema),
-/* harmony export */   "StringSchema": () => (/* binding */ StringSchema),
-/* harmony export */   "TupleSchema": () => (/* binding */ TupleSchema),
-/* harmony export */   "ValidationError": () => (/* binding */ ValidationError),
-/* harmony export */   "addMethod": () => (/* binding */ addMethod),
-/* harmony export */   "array": () => (/* binding */ create$2),
-/* harmony export */   "bool": () => (/* binding */ create$7),
-/* harmony export */   "boolean": () => (/* binding */ create$7),
-/* harmony export */   "date": () => (/* binding */ create$4),
-/* harmony export */   "defaultLocale": () => (/* binding */ locale),
-/* harmony export */   "getIn": () => (/* binding */ getIn),
-/* harmony export */   "isSchema": () => (/* binding */ isSchema),
-/* harmony export */   "lazy": () => (/* binding */ create),
-/* harmony export */   "mixed": () => (/* binding */ create$8),
-/* harmony export */   "number": () => (/* binding */ create$5),
-/* harmony export */   "object": () => (/* binding */ create$3),
-/* harmony export */   "reach": () => (/* binding */ reach),
-/* harmony export */   "ref": () => (/* binding */ create$9),
-/* harmony export */   "setLocale": () => (/* binding */ setLocale),
-/* harmony export */   "string": () => (/* binding */ create$6),
-/* harmony export */   "tuple": () => (/* binding */ create$1)
+/* harmony export */   ArraySchema: () => (/* binding */ ArraySchema),
+/* harmony export */   BooleanSchema: () => (/* binding */ BooleanSchema),
+/* harmony export */   DateSchema: () => (/* binding */ DateSchema),
+/* harmony export */   MixedSchema: () => (/* binding */ MixedSchema),
+/* harmony export */   NumberSchema: () => (/* binding */ NumberSchema),
+/* harmony export */   ObjectSchema: () => (/* binding */ ObjectSchema),
+/* harmony export */   Schema: () => (/* binding */ Schema),
+/* harmony export */   StringSchema: () => (/* binding */ StringSchema),
+/* harmony export */   TupleSchema: () => (/* binding */ TupleSchema),
+/* harmony export */   ValidationError: () => (/* binding */ ValidationError),
+/* harmony export */   addMethod: () => (/* binding */ addMethod),
+/* harmony export */   array: () => (/* binding */ create$2),
+/* harmony export */   bool: () => (/* binding */ create$7),
+/* harmony export */   boolean: () => (/* binding */ create$7),
+/* harmony export */   date: () => (/* binding */ create$4),
+/* harmony export */   defaultLocale: () => (/* binding */ locale),
+/* harmony export */   getIn: () => (/* binding */ getIn),
+/* harmony export */   isSchema: () => (/* binding */ isSchema),
+/* harmony export */   lazy: () => (/* binding */ create),
+/* harmony export */   mixed: () => (/* binding */ create$8),
+/* harmony export */   number: () => (/* binding */ create$5),
+/* harmony export */   object: () => (/* binding */ create$3),
+/* harmony export */   reach: () => (/* binding */ reach),
+/* harmony export */   ref: () => (/* binding */ create$9),
+/* harmony export */   setLocale: () => (/* binding */ setLocale),
+/* harmony export */   string: () => (/* binding */ create$6),
+/* harmony export */   tuple: () => (/* binding */ create$1)
 /* harmony export */ });
 /* harmony import */ var property_expr__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! property-expr */ "./node_modules/property-expr/index.js");
 /* harmony import */ var property_expr__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(property_expr__WEBPACK_IMPORTED_MODULE_0__);

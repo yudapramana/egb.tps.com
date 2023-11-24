@@ -33,7 +33,7 @@
                                     <p>
                                         <i>
                                             <b>
-                                                “Untuk Pengaduan, Laporan, Konsultasi mengenai Masalah, Bug, atau Saran pada
+                                                “Untuk Layanan Pembuatan Web, Pengaduan, Laporan, Konsultasi mengenai Masalah, Bug, atau Saran pada
                                                 Aplikasi Silahkan Langsung Hubungi Admin”
                                             </b>
                                         </i>
@@ -41,11 +41,10 @@
                                 </h3>
 
                                 <h5>
-                                    ADMIN : Pramana Yuda Sayeti, S.Kom <br>
+                                    Pramana Yuda, S.Kom <br>
                                     Kontak : 0896 7754 2744 <br>
                                 </h5>
-                                <small>(CPNS Pranata Komputer di Subbagian Tata Usaha Kantor Kementerian Agama Kab. Pesisir
-                                    Selatan)</small>
+                                <small>( Bacaro Consultant LTD)</small>
 
                             </div>
                         </div>

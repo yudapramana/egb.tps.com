@@ -149,15 +149,10 @@
                                                         form.errors.has('tujuan'),
                                                 }">
                                                 <option value="">Pilih Tujuan</option>
-                                                <option value="Kepala Kantor">Kepala</option>
-                                                <option value="Kasubbag TU">Kasubbag TU</option>
-                                                <option value="Seksi PHU">Seksi PHU</option>
-                                                <option value="Seksi BIMAS">Seksi BIMAS</option>
-                                                <option value="Seksi PDPONTREN">Seksi PDPONTREN</option>
-                                                <option value="Seksi PAIS">Seksi PAIS</option>
-                                                <option value="Seksi PENMAD">Seksi PENMAD</option>
-                                                <option value="Seksi PENYELENGGARA SYARIAH">Seksi PENYELENGGARA SYARIAH
-                                                </option>
+                                                <option value="Kepala Sekolah">Kepala Sekolah</option>
+                                                <option value="Wakil Kepala Sekolah">Wakasek</option>
+                                                <option value="Seksi PHU">Kepala TU</option>
+                                                <option value="Seksi BIMAS">Wali Kelas</option>
                                             </select>
                                             <has-error :form="form" field="tujuan"></has-error>
                                         </div>

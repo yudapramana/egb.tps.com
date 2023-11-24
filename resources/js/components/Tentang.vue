@@ -47,9 +47,9 @@
                                     <p>
                                         Buku Tamu Digital merupakan salah satu proses untuk mencatat data pengunjung yang
                                         telah
-                                        mengunjungi Kantor Kementerian Agama Kab. Pesisir Selatan (KEMENAGPESSEL)
+                                        mengunjungi SMAN 3 Painan
                                         yang berguna untuk mencatat siapa saja dengan keperluan apa saja sehingga mereka
-                                        datang ke KEMENAGPESSEL.
+                                        datang ke SMAN 3 Painan.
                                     </p>
                                 </h5>
 
