@@ -27,7 +27,8 @@ class GuestController extends Controller
                     return $indicator;
                 })
                 ->addColumn('keperluan_tujuan', function ($guest) {
-                    $indicator = $guest->keperluan . ' - ' . $guest->tujuan;
+                    // . ' - ' . $guest->tujuan
+                    $indicator = $guest->keperluan;
                     return $indicator;
                 })
                 ->make(true);
