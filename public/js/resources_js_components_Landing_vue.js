@@ -282,18 +282,51 @@ var _hoisted_42 = {
 var _hoisted_43 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", null, "Tujuan", -1 /* HOISTED */);
 });
-var _hoisted_44 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<option value=\"\" data-v-15bf0008>Pilih Tujuan</option><option value=\"Kepala Kantor\" data-v-15bf0008>Kepala</option><option value=\"Kasubbag TU\" data-v-15bf0008>Kasubbag TU</option><option value=\"Seksi PHU\" data-v-15bf0008>Seksi PHU</option><option value=\"Seksi BIMAS\" data-v-15bf0008>Seksi BIMAS</option><option value=\"Seksi PDPONTREN\" data-v-15bf0008>Seksi PDPONTREN</option><option value=\"Seksi PAIS\" data-v-15bf0008>Seksi PAIS</option><option value=\"Seksi PENMAD\" data-v-15bf0008>Seksi PENMAD</option><option value=\"Seksi PENYELENGGARA SYARIAH\" data-v-15bf0008>Seksi PENYELENGGARA SYARIAH </option>", 9);
-var _hoisted_53 = [_hoisted_44];
-var _hoisted_54 = {
+var _hoisted_44 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<option value=\"\" data-v-15bf0008>Pilih Tujuan</option><option value=\"Kepala Sekolah\" data-v-15bf0008>Kepala Sekolah</option><option value=\"Wakil Kepala Sekolah\" data-v-15bf0008>Wakasek</option><option value=\"Seksi PHU\" data-v-15bf0008>Kepala TU</option><option value=\"Seksi BIMAS\" data-v-15bf0008>Wali Kelas</option>", 5);
+var _hoisted_49 = [_hoisted_44];
+var _hoisted_50 = {
   "class": "card-footer"
 };
-var _hoisted_55 = ["disabled"];
-var _hoisted_56 = {
+var _hoisted_51 = ["disabled"];
+var _hoisted_52 = {
   "class": "fa fa-spinner fa-spin"
 };
-var _hoisted_57 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Simpan Data ");
+var _hoisted_53 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Simpan Data ");
+var _hoisted_54 = {
+  "class": "qr-code mb-3",
+  style: {
+    "justify-content": "center",
+    "text-align": "center"
+  }
+};
+var _hoisted_55 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "box"
+  }, " Atau ", -1 /* HOISTED */);
+});
+var _hoisted_56 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "box mb-3"
+  }, " Anda dapat mengisi BukuTamu dengan Perangkat HP Anda dengan scan QR CODE dibawah ini: ", -1 /* HOISTED */);
+});
+var _hoisted_57 = {
+  "class": "image-box mb-3"
+};
+var _hoisted_58 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+    src: "https://res.cloudinary.com/dezj1x6xp/image/upload/h_250/v1701231547/PandanViewMandeh/qrbukutamu_gp7rwm.png",
+    alt: "AdminLTE Logo"
+  }, null, -1 /* HOISTED */);
+});
+var _hoisted_59 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "box"
+  }, " Aplikasi QRCODE dapat di download di PlayStore dengan mencari \"QRCODE\" atau \"Google Lens\" di Smartphone Anda ", -1 /* HOISTED */);
+});
+
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_has_error = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("has-error");
+  var _component_center = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("center");
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_6, [_hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
     onSubmit: _cache[9] || (_cache[9] = (0,vue__WEBPACK_IMPORTED_MODULE_0__.withModifiers)(function ($event) {
       return $options.saveData();
@@ -417,14 +450,19 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     }),
     id: "tujuan",
     name: "tujuan"
-  }, _hoisted_53, 2 /* CLASS */), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelSelect, $data.form.tujuan]]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_has_error, {
+  }, _hoisted_49, 2 /* CLASS */), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelSelect, $data.form.tujuan]]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_has_error, {
     form: $data.form,
     field: "tujuan"
-  }, null, 8 /* PROPS */, ["form"])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_54, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  }, null, 8 /* PROPS */, ["form"])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_50, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
     type: "submit",
     "class": "btn btn-primary float-end",
     disabled: $data.disabled
-  }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", _hoisted_56, null, 512 /* NEED_PATCH */), [[vue__WEBPACK_IMPORTED_MODULE_0__.vShow, $data.loading]]), _hoisted_57], 8 /* PROPS */, _hoisted_55)])], 32 /* HYDRATE_EVENTS */)])])])])])], 64 /* STABLE_FRAGMENT */);
+  }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", _hoisted_52, null, 512 /* NEED_PATCH */), [[vue__WEBPACK_IMPORTED_MODULE_0__.vShow, $data.loading]]), _hoisted_53], 8 /* PROPS */, _hoisted_51)])], 32 /* HYDRATE_EVENTS */)])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_54, [_hoisted_55, _hoisted_56, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_57, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_center, null, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_58];
+    }),
+    _: 1 /* STABLE */
+  })]), _hoisted_59])])], 64 /* STABLE_FRAGMENT */);
 }
 
 /***/ }),

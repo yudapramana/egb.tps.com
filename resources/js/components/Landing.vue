@@ -176,6 +176,27 @@
             </div>
 
         </div>
+
+        <div class="qr-code mb-3" style="justify-content: center; text-align: center;">
+            <div class="box">
+                Atau
+            </div>
+            <div class="box mb-3">
+                Anda dapat mengisi BukuTamu dengan Perangkat HP Anda dengan scan QR CODE dibawah ini:
+            </div>
+
+            <div class="image-box mb-3">
+                <center>
+                    <img src="https://res.cloudinary.com/dezj1x6xp/image/upload/h_250/v1701231547/PandanViewMandeh/qrbukutamu_gp7rwm.png"
+                        alt="AdminLTE Logo">
+                </center>
+            </div>
+
+            <div class="box">
+                Aplikasi QRCODE dapat di download di PlayStore dengan mencari "QRCODE" atau "Google Lens" di Smartphone Anda
+            </div>
+
+        </div>
     </div>
 </template>
   

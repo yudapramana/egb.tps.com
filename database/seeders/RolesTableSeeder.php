@@ -28,53 +28,21 @@ class RolesTableSeeder extends Seeder
         $user = User::where('username', '199407292022031002')->first();
         $user->assignRole('super_administrator', 'administrator');
 
-        // Pimpinan
-        $user = User::where('username', '197105141995031001')->first();
-        $user->assignRole('director');
+        // Admin1
+        $user = User::where('username', 'riniamelia')->first();
+        $user->assignRole('administrator');
 
-        // Kasubag TU
-        $user = User::where('username', '198008042005011007')->first();
-        $user->assignRole('manager');
+        // Admin2
+        $user = User::where('username', 'hengkiprima')->first();
+        $user->assignRole('administrator');
 
-        // Seksi
-        $users = User::whereIn('username', ['197202112003121003', '197202051997031003', '196706191994031004', '197107051998031013', '198106122008011013', '196906151996032002'])->get();
-        $users->each(function ($user) {
-            $user->assignRole('supervisor');
-        });
+        // Admin3
+        $user = User::where('username', 'dihenrp')->first();
+        $user->assignRole('administrator');
 
-        // Operator
-        $user = User::where('username', 'mardiyana')->first();
-        $user->assignRole('operator');
-
-        // Staff
-        $canStaffs = User::whereIn('username', 
-        [
-            '197505152005012003',
-            '198006222014112002',
-            '197406142007101001',
-            '198212262005011004',
-            '198003162007102002',
-            '197205062007101002',
-            '197208212000032003',
-            '197706292007102008', 
-            '197901012007101004', 
-            '198505202014122005', 
-            '197406142007101001',
-            '197606082009121001',
-            '198705122011012008',
-            '198210132007102002',
-            '198212152005011002',
-            'Meiriza',
-            'Fauzhi',
-            '198104122009012004',
-            '197101152007102002',
-            '198004142007102006',
-            '197809292005012003',
-            '196508281989032001',
-            ])->get();
-        $canStaffs->each(function ($user) {
-            $user->assignRole('staff');
-        });
+        // Admin4
+        $user = User::where('username', 'admin')->first();
+        $user->assignRole('administrator');
 
 
         // Permissions
