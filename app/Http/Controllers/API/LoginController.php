@@ -44,11 +44,13 @@ class LoginController extends Controller
     public function index(Request $request)
     {
         $request->validate([
-            'email' => 'required|email',
+            'email' => 'required',
             'password' => 'required',
         ]);
 
-        $user= User::where('email', $request->email)->first();
+        $user= User::where('email', $request->email)
+        ->orWhere('username', $request->email)
+        ->first();
 
         if (!$user || !Hash::check($request->password, $user->password)) {
             return response([
